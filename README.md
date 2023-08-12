@@ -6,3 +6,5 @@
 
 # Telco müşteri churn verileri, üçüncü çeyrekte Kaliforniya'daki 7043 müşteriye ev telefonu ve İnternet hizmetleri sağlayan
 # hayali bir telekom şirketi hakkında bilgi içerir. Hangi müşterilerin hizmetlerinden ayrıldığını, kaldığını veya hizmete kaydolduğunu içermektedir.
+
+dataset: [Telco-Customer-Churn.csv](https://github.com/CYBki/Telco-Customer_churn_feature_Engineering/files/12327519/Telco-Customer-Churn.csv)
